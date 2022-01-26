@@ -1,0 +1,2 @@
+To add any txt files to ignore list we just need to
+mention *.txt to .gitignore list, and it will ignore all text files
